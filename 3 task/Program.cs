@@ -5,6 +5,7 @@ class Program
     static void Main()
     {
         int[] array = {8, 6, 12, 24, 3 }; 
+        Console.WriteLine("Перевернутый массив: ");
         PrintArray(array, array.Length - 1);
     }
 
