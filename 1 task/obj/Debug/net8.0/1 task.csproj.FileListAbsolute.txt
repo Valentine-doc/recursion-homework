@@ -1,0 +1,15 @@
+D:\study\forClarifications\recursion-homework\1 task\bin\Debug\net8.0\1 task.exe
+D:\study\forClarifications\recursion-homework\1 task\bin\Debug\net8.0\1 task.deps.json
+D:\study\forClarifications\recursion-homework\1 task\bin\Debug\net8.0\1 task.runtimeconfig.json
+D:\study\forClarifications\recursion-homework\1 task\bin\Debug\net8.0\1 task.dll
+D:\study\forClarifications\recursion-homework\1 task\bin\Debug\net8.0\1 task.pdb
+D:\study\forClarifications\recursion-homework\1 task\obj\Debug\net8.0\1 task.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\forClarifications\recursion-homework\1 task\obj\Debug\net8.0\1 task.AssemblyInfoInputs.cache
+D:\study\forClarifications\recursion-homework\1 task\obj\Debug\net8.0\1 task.AssemblyInfo.cs
+D:\study\forClarifications\recursion-homework\1 task\obj\Debug\net8.0\1 task.csproj.CoreCompileInputs.cache
+D:\study\forClarifications\recursion-homework\1 task\obj\Debug\net8.0\1 task.sourcelink.json
+D:\study\forClarifications\recursion-homework\1 task\obj\Debug\net8.0\1 task.dll
+D:\study\forClarifications\recursion-homework\1 task\obj\Debug\net8.0\refint\1 task.dll
+D:\study\forClarifications\recursion-homework\1 task\obj\Debug\net8.0\1 task.pdb
+D:\study\forClarifications\recursion-homework\1 task\obj\Debug\net8.0\1 task.genruntimeconfig.cache
+D:\study\forClarifications\recursion-homework\1 task\obj\Debug\net8.0\ref\1 task.dll
